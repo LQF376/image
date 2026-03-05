@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="29.6.0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36" version="29.6.0">
   <diagram name="第 1 页" id="xyLLGYslkuloKJO4znqb">
-    <mxGraphModel dx="1225" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="467" dy="320" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2k2ogJcNRaYyq1CfoYYA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;设置 DeviceToken&lt;/b&gt;" vertex="1">
-          <mxGeometry height="30" width="140" x="34" y="70" as="geometry" />
+        <mxCell id="2k2ogJcNRaYyq1CfoYYA-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_FILE_ADD_OFFLINE_REQ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="140" x="372" y="11515" as="geometry" />
         </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MsgServer" vertex="1">
           <mxGeometry height="60" width="120" x="250" y="120" as="geometry" />
@@ -2898,6 +2898,60 @@
         </mxCell>
         <mxCell id="gKEJAGUrFsPOrNv3dGYU-578" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #abb2bf;background-color: #282c34;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #abb2bf;&quot;&gt;CID_FILE_HAS_OFFLINE_RES&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="220" x="452" y="11222" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="MsgServer" vertex="1">
+          <mxGeometry height="112" width="120" x="543" y="11523" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="DbProxy" vertex="1">
+          <mxGeometry height="112" width="120" x="861" y="11523" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="365" y="11545" as="sourcePoint" />
+            <mxPoint x="545" y="11545" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-4" connectable="0" parent="MujtCqf8hYS4SJ2OM4xB-3" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="0.1754" y="3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-5" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.33;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.323;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="664.5600000000002" y="11555.96" as="sourcePoint" />
+            <mxPoint x="861.1199999999999" y="11555.176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-6" connectable="0" parent="MujtCqf8hYS4SJ2OM4xB-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2" vertex="1">
+          <mxGeometry relative="1" x="-0.0351" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Client" vertex="1">
+          <mxGeometry height="80" width="80" x="275" y="11545" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;数据库中记录一条 OffLine 消息&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="291" x="217" y="11443" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;user_id、group_name&lt;/b&gt;" vertex="1">
+          <mxGeometry height="30" width="350" x="587" y="11443" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_FILE_ADD_OFFLINE_REQ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="30" width="140" x="694" y="11515" as="geometry" />
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-23" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.388;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="663" y="11625.456" as="sourcePoint" />
+            <mxPoint x="370" y="11625" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-24" connectable="0" parent="MujtCqf8hYS4SJ2OM4xB-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="3" vertex="1">
+          <mxGeometry relative="1" x="0.0283" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MujtCqf8hYS4SJ2OM4xB-25" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_FILE_NOTIFY&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="150" x="530" y="11595" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
