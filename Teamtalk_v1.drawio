@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="29.6.1">
   <diagram name="第 1 页" id="xyLLGYslkuloKJO4znqb">
-    <mxGraphModel dx="1191" dy="734" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="N05W1dwtAGtZ90M4Oj7V-48" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_REQ_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="1148" y="990" as="geometry" />
+        </mxCell>
+        <mxCell id="2k2ogJcNRaYyq1CfoYYA-104" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_RES_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="840" y="1003" as="geometry" />
+        </mxCell>
+        <mxCell id="2k2ogJcNRaYyq1CfoYYA-106" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;CID_LOGIN_RES_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="1150" y="1025" as="geometry" />
+        </mxCell>
+        <mxCell id="2k2ogJcNRaYyq1CfoYYA-103" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_REQ_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="230" x="830" y="950" as="geometry" />
+        </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-121" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_KICK_USER&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="180" x="1235" y="1416" as="geometry" />
         </mxCell>
@@ -431,10 +443,25 @@
             <mxPoint x="1030" y="982" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N05W1dwtAGtZ90M4Oj7V-45" connectable="0" parent="2k2ogJcNRaYyq1CfoYYA-98" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="1" vertex="1">
+          <mxGeometry relative="1" x="0.012" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-99" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=1.013;exitY=0.33;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.001;entryY=0.323;entryDx=0;entryDy=0;entryPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1149.5600000000002" y="1026.96" as="sourcePoint" />
             <mxPoint x="1346.12" y="1026.176" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N05W1dwtAGtZ90M4Oj7V-46" connectable="0" parent="2k2ogJcNRaYyq1CfoYYA-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2" vertex="1">
+          <mxGeometry relative="1" x="0.0584" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="N05W1dwtAGtZ90M4Oj7V-49" connectable="0" parent="2k2ogJcNRaYyq1CfoYYA-99" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="3" vertex="1">
+          <mxGeometry relative="1" x="0.0712" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-100" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" value="">
@@ -443,26 +470,24 @@
             <mxPoint x="1148" y="1060" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N05W1dwtAGtZ90M4Oj7V-50" connectable="0" parent="2k2ogJcNRaYyq1CfoYYA-100" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="4" vertex="1">
+          <mxGeometry relative="1" x="-0.0539" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-101" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;exitX=0.002;exitY=0.426;exitDx=0;exitDy=0;exitPerimeter=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="1028.24" y="997.712" as="sourcePoint" />
             <mxPoint x="850" y="998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="N05W1dwtAGtZ90M4Oj7V-47" connectable="0" parent="2k2ogJcNRaYyq1CfoYYA-101" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="2" vertex="1">
+          <mxGeometry relative="1" x="-0.0361" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-102" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" value="Client" vertex="1">
           <mxGeometry height="80" width="80" x="760" y="982" as="geometry" />
-        </mxCell>
-        <mxCell id="2k2ogJcNRaYyq1CfoYYA-103" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_REQ_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="830" y="950" as="geometry" />
-        </mxCell>
-        <mxCell id="2k2ogJcNRaYyq1CfoYYA-104" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_RES_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="840" y="1003" as="geometry" />
-        </mxCell>
-        <mxCell id="2k2ogJcNRaYyq1CfoYYA-105" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #4fc1ff;&quot;&gt;CID_LOGIN_REQ_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="1148" y="995" as="geometry" />
-        </mxCell>
-        <mxCell id="2k2ogJcNRaYyq1CfoYYA-106" parent="1" style="text;whiteSpace=wrap;html=1;" value="&lt;div style=&quot;color: #cccccc;background-color: #1f1f1f;font-family: Consolas, &#39;Courier New&#39;, monospace;font-weight: normal;font-size: 14px;line-height: 19px;white-space: pre;&quot;&gt;&lt;div&gt;&lt;span style=&quot;color: #cccccc;&quot;&gt;CID_LOGIN_RES_DEVICETOKEN&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="40" width="230" x="1150" y="1025" as="geometry" />
         </mxCell>
         <mxCell id="2k2ogJcNRaYyq1CfoYYA-107" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;b&gt;踢出 PC 端登录&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="140" x="740" y="1120" as="geometry" />
